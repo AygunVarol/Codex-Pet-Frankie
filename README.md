@@ -16,14 +16,14 @@ $CodexHome = if ($env:CODEX_HOME) { $env:CODEX_HOME } else { Join-Path $HOME ".c
 $PetDir = Join-Path $CodexHome "pets\frankie"
 
 New-Item -ItemType Directory -Force -Path $PetDir | Out-Null
-Copy-Item -Force -LiteralPath (Join-Path $Repo "final\spritesheet.webp") -Destination (Join-Path $PetDir "spritesheet.webp")
+Copy-Item -Force -LiteralPath (Join-Path $Repo "final\spritesheet.png") -Destination (Join-Path $PetDir "spritesheet.png")
 
 @'
 {
   "id": "frankie",
   "displayName": "Frankie",
   "description": "A cute sausage dog companion with a long dachshund body, floppy ears, bright eyes, and tiny paws.",
-  "spritesheetPath": "spritesheet.webp"
+  "spritesheetPath": "spritesheet.png"
 }
 '@ | Set-Content -NoNewline -Encoding UTF8 -LiteralPath (Join-Path $PetDir "pet.json")
 ```
@@ -36,14 +36,14 @@ codex_home="${CODEX_HOME:-$HOME/.codex}"
 pet_dir="$codex_home/pets/frankie"
 
 mkdir -p "$pet_dir"
-cp "$repo/final/spritesheet.webp" "$pet_dir/spritesheet.webp"
+cp "$repo/final/spritesheet.png" "$pet_dir/spritesheet.png"
 
 cat > "$pet_dir/pet.json" <<'JSON'
 {
   "id": "frankie",
   "displayName": "Frankie",
   "description": "A cute sausage dog companion with a long dachshund body, floppy ears, bright eyes, and tiny paws.",
-  "spritesheetPath": "spritesheet.webp"
+  "spritesheetPath": "spritesheet.png"
 }
 JSON
 ```
@@ -52,16 +52,17 @@ Restart Codex after installing the files. Frankie should then be available as a 
 
 ## Files
 
-- `final/spritesheet.webp` - the installable Codex pet spritesheet.
+- `final/spritesheet.png` - the installable Codex pet spritesheet used by the commands above.
+- `final/spritesheet.webp` - WebP version of the same atlas.
 - `qa/contact-sheet.png` - visual QA sheet for all animation rows.
 - `qa/videos/` - MP4 previews of each animation state.
 - `pet_request.json` and `imagegen-jobs.json` - provenance for the hatch run.
 
 ## Validation
 
-The final spritesheet was validated as:
+The installable spritesheet was validated as:
 
-- Format: `WEBP`
+- Format: `PNG`
 - Mode: `RGBA`
 - Size: `1536x1872`
 - Cell size: `192x208`
