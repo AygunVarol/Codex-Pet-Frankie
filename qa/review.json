@@ -1,0 +1,962 @@
+{
+  "ok": true,
+  "frames_root": "D:\\For-codex\\frankie-hatch-run\\frames",
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\idle\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17342,
+          "bbox": [
+            5,
+            33,
+            187,
+            174
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 231
+        },
+        {
+          "index": 1,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\idle\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17339,
+          "bbox": [
+            5,
+            33,
+            187,
+            174
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 197
+        },
+        {
+          "index": 2,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\idle\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16263,
+          "bbox": [
+            5,
+            38,
+            187,
+            169
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 155
+        },
+        {
+          "index": 3,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\idle\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16390,
+          "bbox": [
+            5,
+            41,
+            187,
+            167
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 247
+        },
+        {
+          "index": 4,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\idle\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16996,
+          "bbox": [
+            5,
+            35,
+            187,
+            173
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 231
+        },
+        {
+          "index": 5,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\idle\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17276,
+          "bbox": [
+            5,
+            34,
+            187,
+            174
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 296
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\running-right\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15575,
+          "bbox": [
+            5,
+            41,
+            187,
+            166
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 299
+        },
+        {
+          "index": 1,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\running-right\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15143,
+          "bbox": [
+            5,
+            42,
+            187,
+            166
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 264
+        },
+        {
+          "index": 2,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\running-right\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12324,
+          "bbox": [
+            5,
+            50,
+            187,
+            157
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 230
+        },
+        {
+          "index": 3,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\running-right\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16208,
+          "bbox": [
+            5,
+            35,
+            187,
+            173
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 307
+        },
+        {
+          "index": 4,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\running-right\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14365,
+          "bbox": [
+            5,
+            45,
+            187,
+            163
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 243
+        },
+        {
+          "index": 5,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\running-right\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17672,
+          "bbox": [
+            5,
+            31,
+            187,
+            176
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 333
+        },
+        {
+          "index": 6,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\running-right\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16172,
+          "bbox": [
+            5,
+            35,
+            187,
+            173
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 309
+        },
+        {
+          "index": 7,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\running-right\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16392,
+          "bbox": [
+            5,
+            35,
+            187,
+            172
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 305
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\running-left\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16392,
+          "bbox": [
+            5,
+            35,
+            187,
+            172
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 305
+        },
+        {
+          "index": 1,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\running-left\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16172,
+          "bbox": [
+            5,
+            35,
+            187,
+            173
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 309
+        },
+        {
+          "index": 2,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\running-left\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17672,
+          "bbox": [
+            5,
+            31,
+            187,
+            176
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 333
+        },
+        {
+          "index": 3,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\running-left\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14365,
+          "bbox": [
+            5,
+            45,
+            187,
+            163
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 243
+        },
+        {
+          "index": 4,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\running-left\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16208,
+          "bbox": [
+            5,
+            35,
+            187,
+            173
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 307
+        },
+        {
+          "index": 5,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\running-left\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12324,
+          "bbox": [
+            5,
+            50,
+            187,
+            157
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 230
+        },
+        {
+          "index": 6,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\running-left\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15143,
+          "bbox": [
+            5,
+            42,
+            187,
+            166
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 264
+        },
+        {
+          "index": 7,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\running-left\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15575,
+          "bbox": [
+            5,
+            41,
+            187,
+            166
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 299
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\waving\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16454,
+          "bbox": [
+            5,
+            36,
+            187,
+            171
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 86
+        },
+        {
+          "index": 1,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\waving\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16725,
+          "bbox": [
+            5,
+            36,
+            187,
+            171
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 87
+        },
+        {
+          "index": 2,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\waving\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14952,
+          "bbox": [
+            5,
+            40,
+            187,
+            167
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 81
+        },
+        {
+          "index": 3,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\waving\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16690,
+          "bbox": [
+            5,
+            36,
+            187,
+            172
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 93
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\jumping\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14336,
+          "bbox": [
+            5,
+            48,
+            187,
+            160
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 119
+        },
+        {
+          "index": 1,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\jumping\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17266,
+          "bbox": [
+            5,
+            24,
+            187,
+            184
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 172
+        },
+        {
+          "index": 2,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\jumping\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16730,
+          "bbox": [
+            5,
+            41,
+            187,
+            167
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 140
+        },
+        {
+          "index": 3,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\jumping\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18098,
+          "bbox": [
+            5,
+            36,
+            187,
+            172
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 227
+        },
+        {
+          "index": 4,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\jumping\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15819,
+          "bbox": [
+            5,
+            41,
+            187,
+            166
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 150
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\failed\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19435,
+          "bbox": [
+            5,
+            23,
+            187,
+            184
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 251
+        },
+        {
+          "index": 1,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\failed\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13805,
+          "bbox": [
+            5,
+            55,
+            187,
+            153
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 148
+        },
+        {
+          "index": 2,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\failed\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23144,
+          "bbox": [
+            5,
+            9,
+            187,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 209
+        },
+        {
+          "index": 3,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\failed\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15401,
+          "bbox": [
+            5,
+            52,
+            187,
+            155
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 148
+        },
+        {
+          "index": 4,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\failed\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24852,
+          "bbox": [
+            6,
+            5,
+            185,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 278
+        },
+        {
+          "index": 5,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\failed\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18503,
+          "bbox": [
+            5,
+            31,
+            187,
+            177
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 179
+        },
+        {
+          "index": 6,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\failed\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16833,
+          "bbox": [
+            5,
+            42,
+            187,
+            166
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 151
+        },
+        {
+          "index": 7,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\failed\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14977,
+          "bbox": [
+            5,
+            51,
+            187,
+            156
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 187
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\waiting\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17353,
+          "bbox": [
+            5,
+            34,
+            187,
+            174
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 236
+        },
+        {
+          "index": 1,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\waiting\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15279,
+          "bbox": [
+            5,
+            41,
+            187,
+            166
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 181
+        },
+        {
+          "index": 2,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\waiting\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19260,
+          "bbox": [
+            5,
+            27,
+            187,
+            181
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 274
+        },
+        {
+          "index": 3,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\waiting\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20330,
+          "bbox": [
+            5,
+            25,
+            187,
+            183
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 219
+        },
+        {
+          "index": 4,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\waiting\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18780,
+          "bbox": [
+            5,
+            31,
+            187,
+            176
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 216
+        },
+        {
+          "index": 5,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\waiting\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18133,
+          "bbox": [
+            5,
+            32,
+            187,
+            176
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 200
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\running\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15040,
+          "bbox": [
+            5,
+            45,
+            187,
+            163
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 236
+        },
+        {
+          "index": 1,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\running\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17435,
+          "bbox": [
+            5,
+            33,
+            187,
+            174
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 218
+        },
+        {
+          "index": 2,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\running\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14998,
+          "bbox": [
+            5,
+            45,
+            187,
+            163
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 158
+        },
+        {
+          "index": 3,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\running\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17967,
+          "bbox": [
+            5,
+            33,
+            187,
+            174
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 239
+        },
+        {
+          "index": 4,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\running\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14384,
+          "bbox": [
+            5,
+            46,
+            187,
+            161
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 243
+        },
+        {
+          "index": 5,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\running\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17189,
+          "bbox": [
+            5,
+            36,
+            187,
+            172
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 180
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\review\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18041,
+          "bbox": [
+            5,
+            30,
+            187,
+            177
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 152
+        },
+        {
+          "index": 1,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\review\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16546,
+          "bbox": [
+            5,
+            40,
+            187,
+            168
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 183
+        },
+        {
+          "index": 2,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\review\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15610,
+          "bbox": [
+            5,
+            46,
+            187,
+            161
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 157
+        },
+        {
+          "index": 3,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\review\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19644,
+          "bbox": [
+            5,
+            25,
+            187,
+            183
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 241
+        },
+        {
+          "index": 4,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\review\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17473,
+          "bbox": [
+            5,
+            38,
+            187,
+            170
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 187
+        },
+        {
+          "index": 5,
+          "file": "D:\\For-codex\\frankie-hatch-run\\frames\\review\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20869,
+          "bbox": [
+            5,
+            22,
+            187,
+            186
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 213
+        }
+      ]
+    }
+  ]
+}
